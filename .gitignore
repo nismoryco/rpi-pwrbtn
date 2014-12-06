@@ -1,0 +1,5 @@
+*.o
+rpi-pwrbtn.bin
+main.eep.hex
+main.elf
+main.hex
